@@ -6,7 +6,7 @@
 #
 # Supported operating systems: Ubuntu 20, Debian 12
 #
-# Usage:
+# Usage: salam
 #   - Run the script with root privileges.
 #   - Follow the on-screen prompts to install, configure, or uninstall the tunnel.
 #
